@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "core",
+    "packageName": "br.com.core",
+    "packageFolder": "br/com/core",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "pt-br",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.1",
+    "jwtSecretKey": "MWQwNTI2NGFmOTcwNDJhMGU0NzRlMWE4YzA3MzZhNWYxYWM0ZWE1NjQ1MWUyZmIzMWQwYWY2NTlmY2QxMGE3YjlmMzU1MzVkMzRjMzY3NGFmNjU1OTVlYTlkOTUyNGExZGFiNTY3NDYxN2U0OTQ4NDVhMjA5OGE1YTRmZjY1YTQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "bruno-ayres",
+  "repository-name": "core"
+}
